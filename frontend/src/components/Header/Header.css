@@ -1,0 +1,45 @@
+/* #body{
+    display:flex;
+    flex-direction: row; 
+    font-family: cursive;
+}
+
+.header{
+    background-color: #FF5D37;
+    padding: 10px;
+    width:fit-content;
+    height: 100vh; 
+    position: absolute;
+    left: -300px;
+    transition: .4s;
+    
+}
+.header.active{
+    left:0;
+
+}
+.arrow{
+    position: absolute;
+    top: 20px;
+    left:320px;
+
+}
+.arrow span{
+     
+    display:block;
+    background: #FF5D37;
+    width: 45px;
+    height:4px;
+    margin-top:4px;
+
+}
+
+#body ul li{
+    list-style: none;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size:large;
+    padding: 20px 24px;
+    
+
+} */
